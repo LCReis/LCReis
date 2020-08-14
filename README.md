@@ -6,7 +6,7 @@
 ## Hello guys 👋
 I am happy to solve problems using programming.
 
-Currently, I work as a Back-end Developer, but I have carried out some projects with the focus of becoming a FullStack Developer :computer:
+Currently, I work as a Integrator and Back-end Developer, but I have carried out some projects with the focus of becoming a FullStack Developer :computer:
 
  :airplane: &nbsp; I'm working at **TTI - Travel Technology Interactive**
  <br/> :mag_right: &nbsp; Seeking to collaborate with projects in Front-end using React and performing all communication with the Back-end.
