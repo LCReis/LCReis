@@ -1,5 +1,4 @@
-<img width="auto" src="https://upload.wikimedia.org/wikipedia/en/2/25/Tti-logo.gif">
-
+![image](https://github.com/user-attachments/assets/74f4dd84-2002-448a-8638-7214fa285749)
 
 # Lucas Reis
 
