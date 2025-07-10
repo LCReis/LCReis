@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/74f4dd84-2002-448a-8638-7214fa285749)
 
-Lucas Reis
+Lucas Reis <br/>
 👨‍💻 Full Stack Developer | 💡 Technology Enthusiast
 
 I carry with me the mission of reaching and helping as many people as possible, giving them a voice and a dignified life. I believe that technology can play a pivotal role in achieving this goal.
