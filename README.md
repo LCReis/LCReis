@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74f4dd84-2002-448a-8638-7214fa285749)
+<img width="385" height="90" alt="image" src="https://github.com/user-attachments/assets/27170ba2-15f6-490c-a7d1-5eab993d0074" />
 
 # Lucas Reis <br/>
 👨‍💻 Full Stack Developer | 💡 Technology Enthusiast
