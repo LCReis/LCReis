@@ -1,5 +1,4 @@
 # <img width="385" height="90" alt="image" src="https://github.com/user-attachments/assets/27170ba2-15f6-490c-a7d1-5eab993d0074" /> 
-
 # Lucas Reis
 👨‍💻 Full Stack Developer | 💡 Technology Enthusiast
 
